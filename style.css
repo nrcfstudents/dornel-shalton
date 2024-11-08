@@ -1,0 +1,16 @@
+body{
+	color:blue;
+ background-color:maroon;
+font-family: arial;
+ }
+p {text-align: center;}
+h1{text-align: center;
+color: red;
+}
+p{text-align: left;} 
+.friends{text-align:left;} 
+h2{color: yellow;}
+h3{color: black;}
+h4{color: gold;}
+h5{color: red;}
+body{font-style:grid}
