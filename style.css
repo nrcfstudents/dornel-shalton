@@ -1,6 +1,6 @@
 body{
 	color:blue;
- background-color:maroon;
+ background-color:white;
 font-family: arial;
  }
 p {text-align: center;}
@@ -13,4 +13,9 @@ h2{color: yellow;}
 h3{color: black;}
 h4{color: gold;}
 h5{color: red;}
-body{font-style:grid}
+body{font-style:grid
+}
+	table,th,td {border:1px solid black;
+		width: 100%;
+
+	
