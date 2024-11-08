@@ -1,6 +1,6 @@
 body{
 	color:blue;
- background-color:white;
+ background-color:green;
 font-family: arial;
  }
 p {text-align: center;}
@@ -16,6 +16,10 @@ h5{color: red;}
 body{font-style:grid
 }
 	table,th,td {border:1px solid black;
-		width: 100%;
-
-	
+		width: 100%;}
+nav{text-align: center;
+justify-content: center;
+padding: 6 ;
+margin: 9;
+font-weight: bold;
+}
